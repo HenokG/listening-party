@@ -23,4 +23,4 @@ An android native app that lets users listen(in groups), share and publish music
 
 ### Video Player
 
-![ScreenShot](./ScreenShots/6.PNG)
+![ScreenShot](./ScreenShots/6.png)
